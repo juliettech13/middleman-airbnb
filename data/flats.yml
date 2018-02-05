@@ -1,0 +1,42 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+juliettech13:
+  name: "Juliette's home"
+  description: Cute hangout spot in Berlin
+  city_name: Berlin
+  city_slug: "berlin"
+  wifi: true
+  rating: 5
+cma12:
+  name: Morritz's house
+  description: funky hub
+  city_name: Amsterdam
+  city_slug: Amsterdam, Holland
+  wifi: true
+  rating: 4
+martindefruit:
+  name: Martin de Frutos
+  description: fun times
+  city_name: Madrid, Spain
+  city_slug: Madrid
+  wifi: true
+  rating: 2
